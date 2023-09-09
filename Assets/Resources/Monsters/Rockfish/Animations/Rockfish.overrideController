@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rockfish
+  m_Controller: {fileID: 9100000, guid: 45bc1954e4d900848a9552f4d61fb76c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: abf78d8b7ab1b0c4ab37fd5835db3680, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fb98e319ebdf4ca42a8e8264bc890d49, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6855dcdd1baef9e4b8a1f311b1454478, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d9b965d972a26a24bbae48f5d103e836, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e35cd7b0aee6af744bb76a0cce1042d1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2ee9dd9a76bdb9f468da80af36e74553, type: 2}

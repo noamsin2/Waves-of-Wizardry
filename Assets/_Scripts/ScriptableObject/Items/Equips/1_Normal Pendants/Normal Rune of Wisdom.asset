@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b7ee60ac35386d46a8db618d513df84, type: 3}
+  m_Name: Normal Rune of Wisdom
+  m_EditorClassIdentifier: 
+  name: Rune of Wisdom
+  description: '25% Exp
+
+'
+  id: 1
+  amount: 1
+  IsStackable: 0
+  itemInventorySprite: {fileID: 967487635, guid: ea298d55cd181fe4cb9cc6ffc84734d5, type: 3}
+  ItemRarity: 40
+  maxHealth: 0
+  att: 0
+  speed: 0
+  dropRate: 0
+  goldMultiplier: 0
+  expMultiplier: 25
+  attackSpeed: 0

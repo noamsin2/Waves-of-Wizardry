@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26fa252deaffca44780d70ff9e4485ae, type: 3}
+  m_Name: Wave3 1
+  m_EditorClassIdentifier: 
+  monstersWave1:
+  - {fileID: 1439682050906272076, guid: 96fef99d909832745a18815f849271eb, type: 3}
+  - {fileID: 2445969382413882080, guid: 99556f0e46b41fb41826f72081b49b96, type: 3}
+  - {fileID: 4497320849911453825, guid: 5d345228e3fa2c14f8b6de365a19f9d3, type: 3}
+  monstersWave2:
+  - {fileID: 2445969382413882080, guid: 99556f0e46b41fb41826f72081b49b96, type: 3}
+  - {fileID: 1439682050906272076, guid: 96fef99d909832745a18815f849271eb, type: 3}
+  - {fileID: 4497320849911453825, guid: 5d345228e3fa2c14f8b6de365a19f9d3, type: 3}
+  monstersWave3:
+  - {fileID: 1439682050906272076, guid: 96fef99d909832745a18815f849271eb, type: 3}
+  - {fileID: 2445969382413882080, guid: 99556f0e46b41fb41826f72081b49b96, type: 3}
+  - {fileID: 4497320849911453825, guid: 5d345228e3fa2c14f8b6de365a19f9d3, type: 3}
+  bossMonsters: []

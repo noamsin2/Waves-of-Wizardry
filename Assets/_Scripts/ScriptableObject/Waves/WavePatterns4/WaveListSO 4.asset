@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32029361b0d6f0e469ae73352d113643, type: 3}
+  m_Name: WaveListSO 4
+  m_EditorClassIdentifier: 
+  wavePatterns:
+  - {fileID: 11400000, guid: a96204c14fbb70243a6b2e43b945f178, type: 2}
+  - {fileID: 11400000, guid: 68ecf88e1f1e29049b4442c7e67ed03d, type: 2}
+  - {fileID: 11400000, guid: c611b57a15739564a9ae07397408d278, type: 2}
+  - {fileID: 11400000, guid: daf069170724257468a206d5fa196865, type: 2}
+  - {fileID: 11400000, guid: 40181e3d6f382664aa1a659a02ef47cf, type: 2}
+  - {fileID: 11400000, guid: 9857b6dfaeccb7940964a1ca5339143b, type: 2}
